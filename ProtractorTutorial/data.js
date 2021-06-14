@@ -20,7 +20,7 @@ firstData:{
 secondData:{
 		firstNumber:"5",
 		secondNumber:"3",
-		result:"6"
+		result:"8"
 },
 
 thirdData:{
